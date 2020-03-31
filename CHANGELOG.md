@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.131.0
+
+<details><summary>google/cloud-bigquerydatatransfer 0.18.0</summary>
+
+
+
+### Features
+
+* add formatting methods ([#2805](https://www.github.com/googleapis/google-cloud-php/issues/2805)) ([c844cb0](https://www.github.com/googleapis/google-cloud-php/commit/c844cb0a6024a73693a8f683627d0c1999f9edcd))
+
+</details>
+
 ## 0.130.0
 
 <details><summary>google/cloud-bigquery 1.15.0</summary>
