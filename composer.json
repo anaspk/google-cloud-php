@@ -72,7 +72,7 @@
         "google/cloud-asset": "0.6.1",
         "google/cloud-automl": "0.10.0",
         "google/cloud-bigquery": "1.15.0",
-        "google/cloud-bigquerydatatransfer": "0.17.1",
+        "google/cloud-bigquerydatatransfer": "0.18.0",
         "google/cloud-bigtable": "1.3.0",
         "google/cloud-billing": "0.1.0",
         "google/cloud-common-protos": "0.2.0",
